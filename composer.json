@@ -1,0 +1,21 @@
+{
+    "name": "s19u0-tx-scf/php-REST",
+    "description": "a RESTful framework for tencent scf.",
+    "type": "1",
+    "require": {
+        "php": "^7.0|^8.0"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "REST\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "s19u0",
+            "email": "iamxzgsl@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
