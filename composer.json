@@ -1,5 +1,5 @@
 {
-    "name": "s19u0-tx-scf/php-REST",
+    "name": "s19u0-tx-scf/php-rest",
     "description": "a RESTful framework for tencent scf.",
     "type": "1",
     "require": {
